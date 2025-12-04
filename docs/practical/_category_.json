@@ -1,0 +1,8 @@
+{
+  "label": "실전 활용 (Practical)",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "실제 프로젝트에서 Neo4j를 활용하는 실전 가이드입니다."
+  }
+}
