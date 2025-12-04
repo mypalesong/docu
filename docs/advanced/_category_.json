@@ -1,0 +1,8 @@
+{
+  "label": "고급 (Advanced)",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Neo4j를 마스터하기 위한 심화 가이드입니다."
+  }
+}
